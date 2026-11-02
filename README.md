@@ -25,7 +25,7 @@ The project uses **Retrieval-Augmented Generation (RAG)**, so the model looks fo
 
 ## Run in Google Colab
 
-1. Open [`Video_Transcript_RAG_Gemini_Colab_proj.ipynb`](Video_Transcript_RAG_Gemini_Colab_proj.ipynb) in Google Colab.
+1. Open [`Video_Transcript_RAG_Gemini_Colab_proj.ipynb`](Video_Transcript_RAG.ipynb) in Google Colab.
 2. Select a **T4 GPU** runtime if one is available.
 3. Run the package installation cells.
 4. Replace `video_id` with the ID of a YouTube video that has English captions.
